@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <img src="assets/images/profile.png" alt="Godwin Ebo Fosu" class="profile-photo">
+  <h1>GODWIN EBO FOSU</h1>
+  <p><strong>Teaching and Research Assistant</strong></p>
+  <p><em>Geospatial Science for Climate Resilience and Sustianable Development | GIS | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -32,15 +32,7 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a First-Class Agricultural and Environmental Engineering graduate specializing in GIS, remote sensing, and geospatial data analysis. I use Google Earth Engine, QGIS, ArcGIS, Python, and statistical methods to investigate hydroclimatic trends, support climate resilience, assess environmental conditions, and identify suitable locations for agricultural infrastructure. My research interests focus on the intersection of geospatial science, sustainable agriculture, water resources, and environmental management. I am currently seeking **GRA/GTA** opportunities in geospatial analysis, remote sensing, and environmental or climate research where I can contribute my technical skills while advancing my research experience.
 
 </div>
 
@@ -53,7 +45,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Godwin-CV.pdf){ .md-button }
 
 
 ---
@@ -118,5 +110,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/godwinebo/){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/godwin-ebo-fosu-5a1752246/?isSelfProfile=true){ .md-button }
