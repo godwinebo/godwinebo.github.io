@@ -9,7 +9,7 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Replace [YOUR JOB TITLE] with your current or target role
 - [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
 - [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile - Copy.PNG with your actual photo (keep the filename or update it below)
+- [ ] Replace assets/images/profile.PNG with your actual photo (keep the filename or update it below)
 - [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
 - [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
 - [ ] Update GitHub and LinkedIn links in the Connect section
@@ -19,7 +19,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="Godwin Ebo Fosu" class="profile-photo">
+  <img src="assets/images/profile.PNG" alt="Godwin Ebo Fosu" class="profile-photo">
   <h1>GODWIN EBO FOSU</h1>
   <p><strong>Teaching and Research Assistant</strong></p>
   <p><em>Geospatial Science for Climate Resilience and Sustianable Development | GIS | Remote Sensing | Python</em></p>
