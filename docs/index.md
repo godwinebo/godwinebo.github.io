@@ -10,7 +10,7 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
 - [ ] Rewrite the About Me paragraph with your own words
 - [ ] Replace assets/images/profile.PNG with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
+- [ ] Replace the Home page hero background in assets/css/extra.css with an image from assets/images/
 - [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
 - [ ] Update GitHub and LinkedIn links in the Connect section
 - [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
@@ -22,7 +22,7 @@ CHECKLIST FOR THIS PAGE:
   <img src="assets/images/profile.PNG" alt="Godwin Ebo Fosu" class="profile-photo">
   <h1>GODWIN EBO FOSU</h1>
   <p><strong>Teaching and Research Assistant</strong></p>
-  <p><em>Geospatial Science for Climate Resilience and Sustianable Development | GIS | Remote Sensing | Python</em></p>
+  <p><em>Geospatial Science for Climate Resilience and Sustainable Development | GIS | Remote Sensing | Python</em></p>
 </div>
 
 ---
@@ -71,6 +71,20 @@ I am a First-Class Agricultural and Environmental Engineering graduate specializ
     - R — sf, terra, ggplot2
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
+
+-   :material-chart-box:{ .lg .middle } **Statistical Analysis & Visualization**
+
+    ---
+
+    - Python — NumPy, Pandas, Matplotlib
+    - R — ggplot2 and spatial analysis with sf and terra
+    - Statistical data analysis and visualization workflows
+
+-   :material-file-document:{ .lg .middle } **Productivity Software**
+
+    ---
+
+    - Microsoft Office Suite — Excel, Word, PowerPoint
 
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 

@@ -54,6 +54,8 @@ markdown_extensions:
   - admonition        # Note/warning/tip boxes
   - pymdownx.details  # Collapsible admonition blocks
   - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path: docs
   - tables
   - pymdownx.emoji:   # Renders :material-icon: and :fontawesome-brands-icon: inline icons
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -88,6 +90,10 @@ nav:
     # 2. Edit the new file with your project content
     # 3. Add a line below (same format): - "Your Project Title": projects/your-project-name.md
     # 4. Add a project card on docs/projects/index.md
+  - GEE Library:
+    - "Library overview": gee-library/index.md
+    - "Water Budget Analysis": gee-library/waterbudget/water-budget.md
+    - "RUSLE Soil Loss": gee-library/rulse/gee-library/rusle-soil-loss.md
   - Publications: publications.md
   - Experience: experience.md
   - Contact: contact.md

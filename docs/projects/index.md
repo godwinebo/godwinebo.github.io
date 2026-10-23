@@ -44,4 +44,28 @@ and what you found or built.]
 [View Project →](sample-notebook.ipynb){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/placeholder-project.png)
+
+**[Water Budget and Storage-Change Analysis](../gee-library/waterbudget/water-budget.md)**
+
+A Google Earth Engine workflow that estimates basin-scale water-budget components and compares budget-derived storage change with GLDAS.
+
+`Google Earth Engine` `JavaScript` `Hydrology`
+
+[View Project →](../gee-library/waterbudget/water-budget.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../gee-library/rulse/assets/images/rusle-erosion-map.png)
+
+**[RUSLE Soil Loss and Erosion Risk Mapping](../gee-library/rulse/gee-library/rusle-soil-loss.md)**
+
+Estimate potential annual soil loss from rainfall, soil, terrain, land cover, and support-practice factors using Google Earth Engine.
+
+`Google Earth Engine` `RUSLE` `Remote Sensing`
+
+[View Project →](../gee-library/rulse/gee-library/rusle-soil-loss.md){ .md-button }
+</div>
+
 </div>
