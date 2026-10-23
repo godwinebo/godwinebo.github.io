@@ -3,43 +3,26 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
 
 # Publications
 
 ## Journal Articles
 
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
+1. Godwin Ebo Fosu et al., 2026 (Under review). "Hydro-Climatic Trends in the Volta Region: A Geospatial Analysis of Rainfall Patterns." Manuscript under journal review. Based on undergraduate research.
 
 ---
 
 ## Conference Papers & Presentations
 
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+1. Godwin Ebo Fosu (2026). "Analysis of Rainfall Patterns in the Volta Region Using Climate Infrared Data." Poster presentation, *CALIBRATE 2026*, GI-KACE, Accra, Ghana, 22 May. An initiative of the University of Water Science and Engineering (UWSE), in partnership with ESRI West Africa, GEO, GSSTI, WACREN, RCMRD, and GDNR.
 
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
+2. Godwin Ebo Fosu (2024). "Hydro-Climatic Trends in the Volta Region: A Geospatial Analysis of Rainfall Patterns." Poster presentation, *Faculty of Engineering Week*, Ho Technical University, Ho, Ghana.
 
 ---
 
 ## Theses
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
-
----
-
-## Reports & Technical Documents
-
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
+- Godwin Ebo Fosu (2024). *Hydro-Climatic Trends in the Volta Region: A Geospatial Analysis of Rainfall Patterns*. BTech thesis. Ho Technical University. Supervised by Ing. Dr. Benjamin Wullobayi Dekongmen.
 
 ---
 

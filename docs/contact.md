@@ -11,22 +11,23 @@ CHECKLIST FOR THIS PAGE:
 - [ ] Replace [YOUR-NAME] in the CV link with the actual filename of your PDF
 - [ ] Delete the Twitter/X row if you don't use it
 - [ ] Delete the ResearchGate row if not applicable
+| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+
 -->
 
 # Contact
 
 I am open to work opportunities, collaborations, and project discussions.
-Feel free to reach out through any of the channels below.
+Feel free to reach out through any of the channels below to review my work and contact me.
 
 ---
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [godwinebofosu@gmail.com](mailto:godwinebofosu@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/godwinebo](https://github.com/godwinebo) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/godwin-ebo-fosu](https://linkedin.com/in/godwin-ebo-fosu-5a1752246/?isSelfProfile=true) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Godwin-CV.pdf){ .md-button .md-button--primary }
