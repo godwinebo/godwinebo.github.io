@@ -93,6 +93,7 @@ nav:
   - GEE Library:
     - "Library overview": gee-library/index.md
     - "Water Budget Analysis": gee-library/waterbudget/water-budget.md
+    - "2025 LULC Classification": gee-library/LULC/gee-library/lulc-2025-adansi-south.md
     - "RUSLE Soil Loss": gee-library/rulse/gee-library/rusle-soil-loss.md
   - Publications: publications.md
   - Experience: experience.md

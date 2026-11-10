@@ -68,4 +68,16 @@ Estimate potential annual soil loss from rainfall, soil, terrain, land cover, an
 [View Project →](../gee-library/rulse/gee-library/rusle-soil-loss.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../gee-library/LULC/assets/images/lulc-2025-adansi-south.png)
+
+**[2025 Land Use/Land Cover Classification — Adansi South District](../gee-library/LULC/gee-library/lulc-2025-adansi-south.md)**
+
+Map six land-cover classes from Landsat 8 and 9 imagery using a Random Forest workflow in Google Earth Engine.
+
+`Google Earth Engine` `Landsat 8/9` `Random Forest`
+
+[View Project →](../gee-library/LULC/gee-library/lulc-2025-adansi-south.md){ .md-button }
+</div>
+
 </div>

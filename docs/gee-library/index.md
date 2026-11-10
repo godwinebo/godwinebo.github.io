@@ -23,6 +23,17 @@ Estimate precipitation, evapotranspiration, runoff, and storage change, then com
 
 <div class="project-card" markdown>
 
+### 2025 Land Use/Land Cover Classification
+
+Classify six land-cover types in Adansi South District using Landsat 8/9 imagery and a Random Forest model.
+
+`Land cover` `Landsat 8/9` `Random Forest`
+
+[Explore workflow](LULC/gee-library/lulc-2025-adansi-south.md){ .md-button .md-button--primary }
+</div>
+
+<div class="project-card" markdown>
+
 ### RUSLE Soil Loss and Erosion Risk
 
 Estimate potential annual soil loss using rainfall, soil, terrain, land-cover, and support-practice factors.
