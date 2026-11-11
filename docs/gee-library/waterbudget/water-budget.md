@@ -11,6 +11,8 @@ A basin-scale workflow for estimating the water budget and comparing budget-deri
 
 </div>
 
+![Water-budget charts showing monthly climatology, annual components, monthly basin averages, and storage-change comparison](water-budget.PNG)
+
 ## 1. Overview
 
 The water budget describes how precipitation, evapotranspiration, runoff, and changes in water storage relate over a defined area and time interval.

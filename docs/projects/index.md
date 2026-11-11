@@ -45,7 +45,7 @@ and what you found or built.]
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../gee-library/waterbudget/water-budget.PNG)
 
 **[Water Budget and Storage-Change Analysis](../gee-library/waterbudget/water-budget.md)**
 
