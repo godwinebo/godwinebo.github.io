@@ -19,32 +19,6 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
-
-**[Sample Project](sample-project.md)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
-
-[View Project →](sample-project.md){ .md-button }
-</div>
-
-<div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
-
-**[Sample Notebook](sample-notebook.ipynb)**
-
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
-
-`Python` `pandas` `Folium`
-
-[View Project →](sample-notebook.ipynb){ .md-button }
-</div>
-
-<div class="project-card" markdown>
 ![](../gee-library/waterbudget/water-budget.PNG)
 
 **[Water Budget and Storage-Change Analysis](../gee-library/waterbudget/water-budget.md)**
