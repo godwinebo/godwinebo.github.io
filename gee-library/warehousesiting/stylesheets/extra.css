@@ -1,0 +1,5 @@
+/* GEE project pages */
+.md-typeset figure { margin: 1.2rem 0 1.8rem; }
+.md-typeset figure img { border: 1px solid var(--md-default-fg-color--lightest); border-radius: .35rem; }
+.md-typeset figcaption { color: var(--md-default-fg-color--light); font-size: .75rem; text-align: center; margin-top: .45rem; }
+.md-typeset table:not([class]) { font-size: .78rem; }
